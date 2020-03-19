@@ -1,2 +1,5 @@
 .ok
+krl/io.picolabs.github_keys.krl
+krl/io.picolabs.gmail.credential.krl
+krl/io.picolabs.google_signin.krl
 
