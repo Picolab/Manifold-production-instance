@@ -1,0 +1,86 @@
+RID	GitHub repo	comments	Assigned	OK
+agent_inspector			Bruce	
+alexa			Thomas	
+auroraAccess			Thomas	
+auroraTest			Thomas	
+aurora_api	Picolab/Manifold		Thomas	
+colors	Picolab/G2S	for our Manifold production Agency	Bruce	
+com.example.weather			Beto	
+console			Bruce	
+did-sov-SLfEi9esrjzybysFxQZbfq	Picolab/TicTacToe		Bruce	
+engine			Bruce	
+html	Picolab/G2S	for our Manifold production Agency	Bruce	
+id.streetcred.redir	Picolab/G2S	for our Manifold production Agency	Bruce	
+io.github.picolab.manifold_disk	Picolab/Manifold		Bruce	Yes
+io.picolabs.account_management	Picolab/pico-engine		Bruce	
+io.picolabs.alexa			Thomas	
+io.picolabs.aurora_app	Picolab/Manifold		Thomas	
+io.picolabs.collection	Picolab/pico-engine	there is also a version in the Picolab/Manifold repo!	Thomas	
+io.picolabs.cookies	Picolab/pico-engine		Bruce	
+io.picolabs.did_auth_only	Picolab/pico-engine		Bruce	
+io.picolabs.did_simulation	Picolab/pico-engine		Bruce	
+io.picolabs.ds	Picolab/pico-engine		Jace	
+io.picolabs.dummydata			?	
+io.picolabs.github_keys		keys, so not in any repo	?	
+io.picolabs.github_signin	Picolab/Manifold		?	
+io.picolabs.gmail.credential		keys, so not in any repo	?	
+io.picolabs.google_assistant	Picolab/Manifold		?	
+io.picolabs.google_signin	Picolab/Manifold		Beto	
+io.picolabs.journal			?	
+io.picolabs.logging	Picolab/pico-engine		Bruce	
+io.picolabs.manifold.disk_space_monitor	Picolab/Manifold		Bruce	
+io.picolabs.manifold.email_notifications	Picolab/Manifold		?	
+io.picolabs.manifold.pico_mailer			?	
+io.picolabs.manifold.smart_mirror	Picolab/Manifold		Beto	
+io.picolabs.manifold.text_message_notifications	Picolab/Manifold		?	
+io.picolabs.manifold.text_messanger		typo; should be removed?	?	
+io.picolabs.manifold.text_messenger			?	
+io.picolabs.manifold_import	Picolab/Manifold	used one time; sample of how to import a bunch of things from a text file	Bruce	
+io.picolabs.manifold_monitor			?	
+io.picolabs.manifold_owner	Picolab/Manifold		Jace	
+io.picolabs.manifold_pico	Picolab/Manifold		Jace	
+io.picolabs.new_tag_registry	Picolab/Manifold		Jace	
+io.picolabs.notifications	Picolab/Manifold		?	
+io.picolabs.null_owner	Picolab/pico-engine		Bruce	
+io.picolabs.oauth_server	Picolab/pico-engine		Bruce	
+io.picolabs.owner_authentication	Picolab/pico-engine		Bruce	
+io.picolabs.pico_ledger			?	
+io.picolabs.policy	Picolab/pico-engine		Bruce	
+io.picolabs.profile	Picolab/Manifold		Jace	
+io.picolabs.prowl_notifications	Picolab/Manifold		?	
+io.picolabs.reminders			?	
+io.picolabs.rewrite	Picolab/pico-engine		Bruce	
+io.picolabs.safeandmine			?	
+io.picolabs.score_tracker			?	
+io.picolabs.score_wrapper			?	
+io.picolabs.subscription	Picolab/pico-engine		Thomas	
+io.picolabs.tag_registry			?	
+io.picolabs.test	Picolab/pico-engine		Bruce	
+io.picolabs.thing	Picolab/Manifold		?	
+io.picolabs.twilio_notifications	Picolab/Manifold		?	
+io.picolabs.use_honeypot	Picolab/pico-engine		Bruce	
+io.picolabs.visual_params	Picolab/pico-engine		Bruce	
+io.picolabs.weather	Picolab/Manifold		Jace	
+io.picolabs.wrangler	Picolab/pico-engine		Thomas	
+io.picolabs.wrangler.profile	Picolab/pico-engine		?	
+org.sovrin.agency	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agency.ui	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agency_agent	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agent	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agent.ui	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agent_message	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.agents	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.didcomm_plugins	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.edge	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.manifold_agent			Beto	
+org.sovrin.pico_ledger			Beto	
+org.sovrin.router	Picolab/G2S	for our Manifold production Agency	Bruce	
+org.sovrin.tic_tac_toe	Picolab/TicTacToe		Bruce	
+org.sovrin.tic_tac_toe.ui	Picolab/TicTacToe		Bruce	
+org.sovrin.verifier			Bruce	
+reduce_test			Bruce	
+test			Bruce	
+uta_math			Jace	
+uta_real			Jace	
+uta_time			Jace	
+webfinger	Picolab/G2S	for our Manifold production Agency	Bruce	
